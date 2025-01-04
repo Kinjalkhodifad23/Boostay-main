@@ -1208,6 +1208,7 @@ footer input{
     padding: 16px 0px 7px 27px;
     font-size: 15px;
     color: #595959;
+    border: none;
     font-family: var(--opensans);
 }
 .btn-form{
